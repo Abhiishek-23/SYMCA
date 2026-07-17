@@ -1,5 +1,5 @@
 // java file
-public class HelloWorld {
+public class Mgm {
     public static void main(String[] args) {
         System.out.println("Hello, MGM!");
     }
