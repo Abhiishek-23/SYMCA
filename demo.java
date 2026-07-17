@@ -1,6 +1,6 @@
 public class demo {
     public static void main(String[] args) {
-        System.out.println("Kyu re");
+        System.out.println("ki haal he");
     }
 }
  
